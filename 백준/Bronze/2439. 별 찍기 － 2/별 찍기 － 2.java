@@ -18,3 +18,8 @@ public class Main {
         }
     }
 }
+
+/*
+Sol. 
+file:///C:/Users/SEUNGY~1/AppData/Local/Temp/BNZ.62a09d1c142f45d6/2439%EB%B2%88%20%EB%B3%84%20%EC%B0%8D%EA%B8%B0%20-2%20915e05bedba4446ab0549dc4d1ad9f06.html
+*/
